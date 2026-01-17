@@ -1,0 +1,2 @@
+# LabAPI_RestartTriggerPlugin
+RestartTriggerPlugin 是一个基于 HTTP 协议的远程重启触发插件，允许授权用户通过简单的 HTTP 请求安全地触发服务器重启操作。插件采用鉴权机制和冷却时间控制，确保重启操作的安全性和可控性。
