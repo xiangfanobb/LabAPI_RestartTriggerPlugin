@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="RestartPlugin/RestartPlugin.csproj" Id="b470fbf1-529e-4201-b5c2-d54015074dc2">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

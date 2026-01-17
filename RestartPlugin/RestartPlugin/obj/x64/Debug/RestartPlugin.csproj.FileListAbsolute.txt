@@ -1,0 +1,12 @@
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\RestartPlugin.dll
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\RestartPlugin.pdb
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\Assembly-CSharp.dll
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\LabApi.dll
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\YamlDotNet.dll
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\LabApi.xml
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\bin\x64\Debug\YamlDotNet.xml
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\obj\x64\Debug\RestartPlugin.csproj.AssemblyReference.cache
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\obj\x64\Debug\RestartPlugin.csproj.CoreCompileInputs.cache
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\obj\x64\Debug\RestartP.57B72579.Up2Date
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\obj\x64\Debug\RestartPlugin.dll
+C:\Users\xiang\source\repos\RestartPlugin\RestartPlugin\obj\x64\Debug\RestartPlugin.pdb
